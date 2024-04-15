@@ -1,0 +1,14 @@
+html,
+body {
+  background-color: #2a4e6c;
+  font-family: "Micro 5 Charted", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 24px;
+  text-align: center;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+}
